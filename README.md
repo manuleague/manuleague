@@ -15,3 +15,6 @@ Currently, I'm studying computer science at Technical University "Gheorghe Asach
 
 ## GitHub watchers
 [![GitHub watchers](https://img.shields.io/github/watchers/manuleague/manuleague.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/manuleague/manuleague.js/watchers/)
+
+## 
+[![Emanuel's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
