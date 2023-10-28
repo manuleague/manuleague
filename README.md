@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Emanuel. A passionate and motivated student pursuing computer science.</h2>
 
-###
+### 
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
