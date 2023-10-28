@@ -1,7 +1,7 @@
-# Welcome to [Emanuel]'s GitHub Profile! 👋
+# Welcome to Emanuel's GitHub Profile! 👋
 
 ## About Me
-Hello, I'm [Emanuel], a passionate and motivated student pursuing [computer science]. I love diving into various programming language, exploring new technologies, and constantly learning.
+Hello, I'm Emanuel, a passionate and motivated student pursuing [computer science]. I love diving into various programming language, exploring new technologies, and constantly learning.
 
 ## Languages and Tools
 Here are some of the programming languages and tools I'm familiar with:
@@ -13,5 +13,5 @@ Here are some of the programming languages and tools I'm familiar with:
 Nothing yet, but in the near future yes
 
 ## Education
-Currently, I'm studying [Computer Science] at [Technical University "Gheorghe Asachi" Iasi, Romania].
+Currently, I'm studying computer science at Technical University "Gheorghe Asachi" Iasi, Romania.
 
