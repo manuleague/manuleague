@@ -1,4 +1,4 @@
-# Welcome to Emanuel's GitHub Profile! 👋
+# Hello friends 🖐️
 
 ## About Me
 Hello, I'm Emanuel, a passionate and motivated student pursuing computer science. I love diving into various programming language, exploring new technologies, and constantly learning.
