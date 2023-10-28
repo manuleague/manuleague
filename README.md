@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to [Emanuel]'s GitHub Profile! 👋
 
-<!--
-**manuleague/manuleague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, I'm [Emanuel], a passionate and motivated student pursuing [computer science]. I love diving into various programming language, exploring new technologies, and constantly learning.
 
-Here are some ideas to get you started:
+## Languages and Tools
+Here are some of the programming languages and tools I'm familiar with:
+- **Languages:** Python, JavaScript, Java, C/C++, HTML, CSS
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, VS Code, Jupyter Notebooks, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Nothing yet, but in the near future yes
+
+## Education
+Currently, I'm studying [Computer Science] at [Technical University "Gheorghe Asachi" Iasi, Romania].
+
