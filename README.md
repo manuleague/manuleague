@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+<h3 align="left">Contact me:</h3>
 <div align="left">
   <a href="https://discordapp.com/users/696024830641831946" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
