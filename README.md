@@ -1,13 +1,11 @@
 # Welcome to Emanuel's GitHub Profile! 👋
 
 ## About Me
-Hello, I'm Emanuel, a passionate and motivated student pursuing [computer science]. I love diving into various programming language, exploring new technologies, and constantly learning.
+Hello, I'm Emanuel, a passionate and motivated student pursuing computer science. I love diving into various programming language, exploring new technologies, and constantly learning.
 
 ## Languages and Tools
 Here are some of the programming languages and tools I'm familiar with:
-- **Languages:** Python, JavaScript, Java, C/C++, HTML, CSS
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, VS Code, Jupyter Notebooks, Docker
+- **Languages:** Python,C/C++
 
 ## Projects
 Nothing yet, but in the near future yes
