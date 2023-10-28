@@ -14,4 +14,4 @@ Nothing yet, but in the near future yes
 Currently, I'm studying computer science at Technical University "Gheorghe Asachi" Iasi, Romania.
 
 ## GitHub watchers
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/manuleague/manuleague.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/manuleague/manuleague.js/watchers/)
