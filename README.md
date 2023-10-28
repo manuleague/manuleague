@@ -5,7 +5,7 @@ Hello, I'm Emanuel, a passionate and motivated student pursuing computer science
 
 ## Languages and Tools
 Here are some of the programming languages and tools I'm familiar with:
-- **Languages:** Python,C/C++
+- **Languages:** Python, C/C++
 
 ## Projects
 Nothing yet, but in the near future yes
