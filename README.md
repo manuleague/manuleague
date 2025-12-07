@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 
 <p >
-  💻 Passionate about IT, Cloud, DevOps, Security, hardware<br>
-  🌱 Currently exploring cloud technologies, microservices<br>
-  🔭 Currently working on a trading bot<br>
+  🎓 CS student | 💻 Passionate about IT | ☁️ Cloud | 🚀 DevOps | 🔒 Security | 🖥️ Hardware<br>
+  🌱 Currently exploring ☁️ cloud technologies, 🏗️ microservices<br>
+  🔭 Currently working on a 🤖 trading bot<br>
 </p>
 
 ## 📊 GitHub Stats
